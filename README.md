@@ -1,9 +1,9 @@
 # 🖥️ Programación - Desarrollo de Aplicaciones Web
 
-## 📋 Information
+## 📋 Información
 Proyectos realizados hasta el momento en la asignatura "Programación" del CFGS Desarrollo de Aplicaciones Web.
 
-## 💯 MY PROGRESS
+## 💯 Mi progreso
 
 | Número    | Nombre proyecto | Descripción | Fecha creación | Nota |
 |:---------:|:------------------|:--------------|:-------------------|:-----:|
