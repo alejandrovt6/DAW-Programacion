@@ -8,4 +8,4 @@ Creación de clases y métodos y relacionar según PDF proporcionado por el prof
 * Interfaces
 
 ## Representar la siguiente estructura: 
-![Structure](/tareaMayo/structure.PNG)
+![Structure](./structure.PNG)
